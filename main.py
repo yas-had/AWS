@@ -6,7 +6,7 @@ app = application
 
 @app.route('/')
 def hello_world():
-    return 'Sup. Subscribe'
+    return 'Sup. Subscribe 2'
 
 
 if __name__ == '__main__':
